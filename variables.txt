@@ -9,6 +9,13 @@ var num7 = 14;  {
 console.log(num7 / num2)
 }
 
+// Added after assesment timed out. Don't remember question but it asked for quotient
+// of num variables to be divided in a string?
+var quotient = num2 / num7
+console.log("The quotient is " + quotient)
+
+
+
 var songs = "Nikes", "Ivy", "Novacane"
 var newSongs = songs.shift()
 
