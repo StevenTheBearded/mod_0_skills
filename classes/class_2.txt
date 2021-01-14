@@ -1,0 +1,13 @@
+Chair
+
+Attributes:
+legs(interger)
+seatBack(boolean)
+armRest(boolean)
+cloth(boolean)
+
+Methods:
+countLegs(updates leg attribute)
+checkSeatBack(updates seatBack attribute)
+checkArmRest(updates armRest attribute)
+checkCloth(updates cloth attribute)
