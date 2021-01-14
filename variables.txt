@@ -1,0 +1,15 @@
+var food = "falafel";
+var isDelicious = true;
+
+var food = "hummus";
+
+var num2 = 32;
+
+var num7 = 14;  {
+console.log(num7 / num2)
+}
+
+var songs = "Nikes", "Ivy", "Novacane"
+var newSongs = songs.shift()
+
+console.log(food.length)
