@@ -1,0 +1,13 @@
+Cups
+
+Attributes:
+capacity(interger)
+glass(string)
+clean(boolean)
+manufactor(string)
+
+Methods:
+cleanCup(udpates clean attrubute)
+testMaterial(updates glass attribute)
+callManufactor(updates manufactor attribute)
+checkCapacity(updates capacity attribute)
