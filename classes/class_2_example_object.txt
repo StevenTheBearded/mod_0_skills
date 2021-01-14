@@ -1,0 +1,13 @@
+Dining Chair
+
+Attributes:
+legs: 4
+seatBack: Yes
+armRest: No
+cloth: Yes
+
+Methods:
+countLegs(changes leg attribute)
+checkSeatBack(changes seatBack attribute)
+checkArmRest(changes armRest attribute)
+checkCloth(changes cloth attribute)
