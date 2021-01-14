@@ -1,0 +1,14 @@
+Beer Glass
+
+Attributes:
+capacity: 16
+glass: true
+clean: true
+manufactor: (Glass and Co)
+
+
+Methods:
+cleanCup (changes clean attribute to true)
+testMaterial(updates glass attribute)
+callManufactor(updates manufactor attribute)
+checkCapacity(updates capacity attribute)
