@@ -2,13 +2,13 @@ Beer Glass
 
 Attributes:
 capacity: 16
-glass: true
-clean: true
-manufactor: (Glass and Co)
+material:"Glass"
+isClean: true
+manufactor: "Glass and Co"
 
 
 Methods:
-cleanCup (changes clean attribute to true)
-testMaterial(updates glass attribute)
+inspectCup (updates isClean attribute)
+checkMaterial(updates material attribute)
 callManufactor(updates manufactor attribute)
-checkCapacity(updates capacity attribute)
+inspectCapacity(updates capacity attribute)
