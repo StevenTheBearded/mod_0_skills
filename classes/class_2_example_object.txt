@@ -2,12 +2,12 @@ Dining Chair
 
 Attributes:
 legs: 4
-seatBack: Yes
-armRest: No
-cloth: Yes
+hasSeatBack: Yes
+seatCapacity: 1
+material: "Cloth"
 
 Methods:
-countLegs(changes leg attribute)
-checkSeatBack(changes seatBack attribute)
-checkArmRest(changes armRest attribute)
-checkCloth(changes cloth attribute)
+countLegs(updates leg attribute)
+reclineSeatBack(updates hasSeatBack attribute)
+inspectCapacity(update seatCapacity attribute)
+changeMaterial(updates material attribute)
