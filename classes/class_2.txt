@@ -1,13 +1,13 @@
 Chair
 
 Attributes:
-legs(interger)
-seatBack(boolean)
-armRest(boolean)
-cloth(boolean)
+leg(interger)
+hasSeatBack(boolean)
+seatCapacity(interger)
+material(string)
 
 Methods:
 countLegs(updates leg attribute)
-checkSeatBack(updates seatBack attribute)
-checkArmRest(updates armRest attribute)
-checkCloth(updates cloth attribute)
+reclineSeatBack(modifies hasSeatBack attribute)
+inspectCapacity(updates seatCapacity attribute)
+changeMaterial(updates material attribute)
