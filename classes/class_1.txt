@@ -1,13 +1,13 @@
-Cups
+Cup
 
 Attributes:
 capacity(interger)
-glass(string)
-clean(boolean)
+material(string)
+isClean(boolean)
 manufactor(string)
 
 Methods:
-cleanCup(udpates clean attrubute)
-testMaterial(updates glass attribute)
+inspectCup(modifies clean attrubute)
+checkMaterial(updates material attribute)
 callManufactor(updates manufactor attribute)
-checkCapacity(updates capacity attribute)
+inspectCapacity(updates capacity attribute)
