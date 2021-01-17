@@ -1,7 +1,7 @@
 var food = "falafel";
 var isDelicious = true;
 
-var food = "hummus";
+food = "hummus"; // removed var from syntax
 
 var num2 = 32;
 
@@ -16,7 +16,7 @@ console.log("The quotient is " + quotient)
 
 
 
-var songs = "Nikes", "Ivy", "Novacane"
+var songs = ["Nikes", "Ivy", "Novacane"] //added brackets to make it an array
 var newSongs = songs.shift()
 
 console.log(food.length)
